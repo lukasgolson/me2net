@@ -7,5 +7,6 @@ mediapipe
 
 # Tested with the following torch packages, but you should probably go to
 # https://pytorch.org/ and install the latest appropriate build of PyTorch for your system
-#torch==2.0.0
-#torchvision==0.15.1
+torch
+torchvision
+torchaudio
